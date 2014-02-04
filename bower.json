@@ -1,0 +1,25 @@
+{
+  "name": "svg.easing.js",
+  "main": "svg.easing.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dotnetCarpenter/svg.easing.js",
+  "authors": [
+    "Wout Fierens <wout@impinc.co.uk>"
+  ],
+  "description": "Additional easing equations for the fx module in the svgjs.com library.",
+  "keywords": [
+    "svg.js",
+    "easing",
+    "svg",
+    "vector",
+    "graphics"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
